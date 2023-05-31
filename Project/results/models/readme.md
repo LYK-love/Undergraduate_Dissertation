@@ -1,0 +1,1 @@
+This dir is used to save models created by my neural network.

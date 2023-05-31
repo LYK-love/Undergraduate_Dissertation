@@ -1,0 +1,46 @@
+Classification Counts:
+what: 23877
+why: 26890
+how-it-is-done: 20920
+how-to-use: 17999
+property: 14958
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 38
+Num of samples which has 1 comment types: 638
+Num of samples which has 2 comment types: 3876
+Num of samples which has 3 comment types: 9642
+Num of samples which has 4 comment types: 11132
+Num of samples which has 5 comment types: 4560
+
+Comment Label Counts:Num of True samples: 829Num of False samples: 29057The negative rate: 0.9722612594525865Classification Counts:
+what: 23863
+why: 26918
+how-it-is-done: 20966
+how-to-use: 17890
+property: 14832
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 43
+Num of samples which has 1 comment types: 623
+Num of samples which has 2 comment types: 3796
+Num of samples which has 3 comment types: 9777
+Num of samples which has 4 comment types: 11067
+Num of samples which has 5 comment types: 4531
+
+Comment Label Counts:Num of True samples: 695Num of False samples: 29142The negative rate: 0.9767067734691826Classification Counts:
+what: 7860
+why: 8921
+how-it-is-done: 6937
+how-to-use: 5934
+property: 4964
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 11
+Num of samples which has 1 comment types: 212
+Num of samples which has 2 comment types: 1232
+Num of samples which has 3 comment types: 3283
+Num of samples which has 4 comment types: 3624
+Num of samples which has 5 comment types: 1519
+
+Comment Label Counts:Num of True samples: 208Num of False samples: 9673The negative rate: 0.9789494990385589

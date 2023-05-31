@@ -1,0 +1,197 @@
+Classification Counts:
+what: 12289
+why: 2147
+how-it-is-done: 17862
+how-to-use: 6660
+property: 35422
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 21198
+Num of samples which has 2 comment types: 17203
+Num of samples which has 3 comment types: 5456
+Num of samples which has 4 comment types: 602
+Num of samples which has 5 comment types: 0
+
+Comment Label Counts:
+Num of True samples: 319
+Num of False samples: 44140
+The negative rate: 0.9928248498616703Classification Counts:
+what: 12289
+why: 2147
+how-it-is-done: 17862
+how-to-use: 6660
+property: 35422
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 21198
+Num of samples which has 2 comment types: 17203
+Num of samples which has 3 comment types: 5456
+Num of samples which has 4 comment types: 602
+Num of samples which has 5 comment types: 0
+
+Comment Label Counts:
+Num of True samples: 319
+Num of False samples: 44140
+The negative rate: 0.9928248498616703Classification Counts:
+what: 12289
+why: 2147
+how-it-is-done: 17862
+how-to-use: 6660
+property: 35422
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 21198
+Num of samples which has 2 comment types: 17203
+Num of samples which has 3 comment types: 5456
+Num of samples which has 4 comment types: 602
+Num of samples which has 5 comment types: 0
+
+Clone Detection Counts:
+textual: 43483
+lexical: 780
+syntactic: 19
+semantic: 90
+
+Sample Clone Counts:
+Num of samples which has 0 clone types: 87
+Num of samples which has 1 clone types: 44372
+Num of samples which has 2 clone types: 0
+Num of samples which has 3 clone types: 0
+Num of samples which has 4 clone types: 0
+Num of samples which has 5 clone types: 0
+
+Comment Label Counts:
+Num of True samples: 319
+Num of False samples: 44140
+The negative rate: 0.9928248498616703Classification Counts:
+what: 641
+why: 105
+how-it-is-done: 922
+how-to-use: 341
+property: 1830
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 1069
+Num of samples which has 2 comment types: 863
+Num of samples which has 3 comment types: 296
+Num of samples which has 4 comment types: 39
+Num of samples which has 5 comment types: 0
+
+Clone Detection Counts:
+textual: 2220
+lexical: 8
+syntactic: 17
+semantic: 10
+
+Sample Clone Counts:
+Num of samples which has 0 clone types: 12
+Num of samples which has 1 clone types: 2255
+Num of samples which has 2 clone types: 0
+Num of samples which has 3 clone types: 0
+Num of samples which has 4 clone types: 0
+Num of samples which has 5 clone types: 0
+
+Comment Label Counts:
+Num of True samples: 58
+Num of False samples: 2209
+The negative rate: 0.9744155271283634Classification Counts:
+what: 646
+why: 104
+how-it-is-done: 909
+how-to-use: 324
+property: 1847
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 1064
+Num of samples which has 2 comment types: 875
+Num of samples which has 3 comment types: 296
+Num of samples which has 4 comment types: 32
+Num of samples which has 5 comment types: 0
+
+Clone Detection Counts:
+textual: 2220
+lexical: 8
+syntactic: 17
+semantic: 9
+
+Sample Clone Counts:
+Num of samples which has 0 clone types: 13
+Num of samples which has 1 clone types: 2254
+Num of samples which has 2 clone types: 0
+Num of samples which has 3 clone types: 0
+Num of samples which has 4 clone types: 0
+Num of samples which has 5 clone types: 0
+
+Comment Label Counts:
+Num of True samples: 62
+Num of False samples: 2205
+The negative rate: 0.972651080723423Classification Counts:
+what: 589
+why: 124
+how-it-is-done: 914
+how-to-use: 338
+property: 1832
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 1075
+Num of samples which has 2 comment types: 888
+Num of samples which has 3 comment types: 270
+Num of samples which has 4 comment types: 34
+Num of samples which has 5 comment types: 0
+
+Clone Detection Counts:
+textual: 2220
+lexical: 8
+syntactic: 17
+semantic: 8
+
+Sample Clone Counts:
+Num of samples which has 0 clone types: 14
+Num of samples which has 1 clone types: 2253
+Num of samples which has 2 clone types: 0
+Num of samples which has 3 clone types: 0
+Num of samples which has 4 clone types: 0
+Num of samples which has 5 clone types: 0
+
+Comment Label Counts:
+Num of True samples: 47
+Num of False samples: 2220
+The negative rate: 0.9792677547419497Classification Counts:
+what: 627
+why: 116
+how-it-is-done: 925
+how-to-use: 358
+property: 1823
+
+Sample Classification Counts:
+Num of samples which has 0 comment types: 0
+Num of samples which has 1 comment types: 1036
+Num of samples which has 2 comment types: 915
+Num of samples which has 3 comment types: 281
+Num of samples which has 4 comment types: 35
+Num of samples which has 5 comment types: 0
+
+Clone Detection Counts:
+textual: 2220
+lexical: 8
+syntactic: 17
+semantic: 8
+
+Sample Clone Counts:
+Num of samples which has 0 clone types: 14
+Num of samples which has 1 clone types: 2253
+Num of samples which has 2 clone types: 0
+Num of samples which has 3 clone types: 0
+Num of samples which has 4 clone types: 0
+Num of samples which has 5 clone types: 0
+
+Comment Label Counts:
+Num of True samples: 43
+Num of False samples: 2224
+The negative rate: 0.9810322011468902
