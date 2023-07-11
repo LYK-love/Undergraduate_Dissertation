@@ -6,7 +6,24 @@ __pycache__/
 __MACOSX
 
 .DS_Store
-Project/subjects/data/
+
+# Gitignore for datasets.
+Project/subjects/data/cleaned_dataset/*
+Project/subjects/data/cup2_dataset/*
+Project/subjects/data/cup2_updater_dataset/*
+
+Project/subjects/data/label_res/*
+# The manual label doc should be included to git.
+!Project/subjects/data/label_res/readme.md
+
+
+Project/subjects/data/middle_processed_dataset/*
+Project/subjects/data/processed_dataset/*
+Project/subjects/data/raw_dataset/*
+
+
+
+
 Project/subjects/data_for_test
 
 # C extensions
